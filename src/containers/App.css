@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Risque";
+  src: url("Risque-Regular.ttf");
+}
+
+h1 {
+	font-family: "Risque", "Bitstream Vera Serif", serif;
+	color: rgba(0,200,170,1);
+}
